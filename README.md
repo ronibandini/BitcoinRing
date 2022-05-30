@@ -10,6 +10,10 @@ Type the keys with a nice looking ASCII Art
 
 Announce a random number of noise chars using led blinks before and after the keys. No ASCII art.
 
+# Project details
+
+https://www.pcbway.com/project/shareproject/Bitcoin_ring_with_Attiny85_1771af5f.html
+
 # Social Media
 https://bandini.medium.com/
 https://www.instagram.com/ronibandini/
