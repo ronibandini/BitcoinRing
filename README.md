@@ -14,7 +14,8 @@ Announce a random number of noise chars using led blinks before and after the ke
 
 https://www.pcbway.com/project/shareproject/Bitcoin_ring_with_Attiny85_1771af5f.html
 
-# Additional boards Digispark 
+# How to burn the board 
+https://javiervidrua.github.io/blog/jekyll/update/2020/11/06/rubber-ducky-with-digispark-attiny85.html
 [http://drazzy.com/package_drazzy.com_index.json](https://raw.githubusercontent.com/ArminJo/DigistumpArduino/master/package_digistump_index.json)
 
 # Social Media
