@@ -14,6 +14,9 @@ Announce a random number of noise chars using led blinks before and after the ke
 
 https://www.pcbway.com/project/shareproject/Bitcoin_ring_with_Attiny85_1771af5f.html
 
+# Additional boards AttinyCore  
+http://drazzy.com/package_drazzy.com_index.json
+
 # Social Media
 https://bandini.medium.com/
 https://www.instagram.com/ronibandini/
